@@ -2,7 +2,7 @@
 
 <p align="center" ><img src="settings/vue-router.jpg"></p>
 
-# Atom Vue Router {laravel,vue}
+# ⚛️ Atom Vue Router {laravel,vue}
 
 > laravel-> vue ->vue-router atom package by @code4mk
 
