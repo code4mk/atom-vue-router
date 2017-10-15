@@ -55,6 +55,7 @@
         name: 'Music',
         component: Music
       }
+    ]
     """
 
   'one routes -> vue-router':
