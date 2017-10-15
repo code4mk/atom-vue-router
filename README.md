@@ -35,6 +35,20 @@ Version:
 |vr-transition | vue router transition |
 
 
+Another package which helps you ❤️
+
+```ssh
+apm install atom-axios
+```
+
+```ssh
+apm install atom-vuex
+```
+
+```ssh
+apm install atom-vue
+```
+
 ### Vue Router
 
 * [vue-router](https://router.vuejs.org/en/)
