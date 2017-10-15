@@ -1,6 +1,6 @@
 {
   "name": "atom-vue-router",
-  "version": "0.2.0",
+  "version": "0.3.0",
   "description": "Vue-router integrates with Vue.js core to make building Single Page Applications  >> Snippet >> atom-vue-router by @code4mk",
   "keywords": [
     "vue-router",
