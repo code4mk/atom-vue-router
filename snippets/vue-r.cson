@@ -16,3 +16,8 @@
         <router-view class="view"></router-view>
     </transition>
     """
+  '$route.name -> vue-router':
+    'prefix': 'vr-name',
+    'body': """
+    {{ $route.name }}
+    """
