@@ -21,3 +21,18 @@
     'body': """
     {{ $route.name }}
     """
+  'query -> vue-router':
+    'prefix': 'vr-query',
+    'body': """
+    query: { foo: 'bar' }
+    """
+  'query -> vue-router':
+    'prefix': 'vr-exact',
+    'body': """
+    exact
+    """
+  'tag -> vue-router':
+    'prefix': 'vr-tag',
+    'body': """
+    tag="li"
+    """
